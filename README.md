@@ -1,4 +1,4 @@
-## I'm a Junior Manual QA Engineer. 
+## I'm a Trainee Manual QA Engineer. 
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/1TskTYknNmQNAR7GIiV-WJZ9JgCqs4ovU/edit?usp=sharing&ouid=115753630823742307189&rtpof=true&sd=true)
 
