@@ -1,6 +1,9 @@
 ## I'm a Trainee Manual QA Engineer. 
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/1TskTYknNmQNAR7GIiV-WJZ9JgCqs4ovU/edit?usp=sharing&ouid=115753630823742307189&rtpof=true&sd=true)
+## My portfolio
+[Link to my CV](https://github.com/brealist7/QA-Engineer-Portfolio)
+
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
